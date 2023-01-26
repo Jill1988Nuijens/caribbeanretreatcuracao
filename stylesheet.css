@@ -389,6 +389,7 @@ h2 p {
 
 .dag1mob {
     display: none;
+    visibility: hidden;
 }
 
 
