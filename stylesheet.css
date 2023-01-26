@@ -706,8 +706,8 @@ h2 p {
     .dag1mob {
         display: flex;
         flex-direction: column;
-        width: 390px;
-        height: 420px;
+        width: 100%;
+        height: 100%;
 
 
     }
@@ -721,8 +721,8 @@ h2 p {
     .dag2mob {
         display: flex;
         flex-direction: column;
-        width: 390px;
-        height: 420px;
+        width: 100%;
+        height: 100%;
 
 
     }
